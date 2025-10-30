@@ -142,6 +142,6 @@ Enter your command: q
 
 ## Author
 
-Mark Danielle Bien
-Beginner Java Developer practicing Object-Oriented Programming
-Currently studying via the [Java Programming MOOC](https://java-programming.mooc.fi/)
+- **Mark Danielle Bien**
+- Beginner Java Developer practicing Object-Oriented Programming
+- Currently studying via the [Java Programming MOOC](https://java-programming.mooc.fi/)
