@@ -121,7 +121,7 @@ Enter your command: q
 
 2. Navigate into the project folder:
 
-- cd Java-HashMap-Practice-Word-Counter-and-Word-Grouper
+- cd Java-HashMap-Practice-Word-Counter-and-Word-Grouper/src
 
 3. Compile all files:
 
