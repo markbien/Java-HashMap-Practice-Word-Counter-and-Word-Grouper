@@ -36,7 +36,7 @@ It combines two exercises into one cohesive program - a **word counter** and a *
 
 ## Concepts Practiced
 
-- Using `HashMp` for key-value storage
+- Using `HashMap` for key-value storage
 - Storing `List` objects as values in a map
 - OOP design
 - Encapsulation and separation of concerns
@@ -44,22 +44,23 @@ It combines two exercises into one cohesive program - a **word counter** and a *
 
 ## Example Usage
 
-Available commands:
-[A] - To add word(s)
-[C] - To view count of a specific word
-[V] - To view counts of all words
-[L] - To view all words with the specified length
-[W] - To view all word lengths with their words
-[Q] - To quit the program
+<pre><code>
+Available commands: 
+	[A] - To add word(s)
+	[C] - To view count of a specific word
+	[V] - To view counts of all words
+	[L] - To view all words with the specified length
+	[W] - To view all word lengths with their words
+	[Q] - To quit the program
 Enter your command: a
 Enter your words: For God so loved the world He gave His only begotten Son
-Available commands:
-[A] - To add word(s)
-[C] - To view count of a specific word
-[V] - To view counts of all words
-[L] - To view all words with the specified length
-[W] - To view all word lengths with their words
-[Q] - To quit the program
+Available commands: 
+	[A] - To add word(s)
+	[C] - To view count of a specific word
+	[V] - To view counts of all words
+	[L] - To view all words with the specified length
+	[W] - To view all word lengths with their words
+	[Q] - To quit the program
 Enter your command: v
 the: 1
 world: 1
@@ -74,40 +75,41 @@ so: 1
 god: 1
 he: 1
 
-Available commands:
-[A] - To add word(s)
-[C] - To view count of a specific word
-[V] - To view counts of all words
-[L] - To view all words with the specified length
-[W] - To view all word lengths with their words
-[Q] - To quit the program
+Available commands: 
+	[A] - To add word(s)
+	[C] - To view count of a specific word
+	[V] - To view counts of all words
+	[L] - To view all words with the specified length
+	[W] - To view all word lengths with their words
+	[Q] - To quit the program
 Enter your command: w
 Word Length: [2]
-1: so
-2: he
+	1: so
+	2: he
 Word Length: [3]
-1: for
-2: god
-3: the
-4: his
-5: son
+	1: for
+	2: god
+	3: the
+	4: his
+	5: son
 Word Length: [4]
-1: gave
-2: only
+	1: gave
+	2: only
 Word Length: [5]
-1: loved
-2: world
+	1: loved
+	2: world
 Word Length: [8]
-1: begotten
+	1: begotten
 
-Available commands:
-[A] - To add word(s)
-[C] - To view count of a specific word
-[V] - To view counts of all words
-[L] - To view all words with the specified length
-[W] - To view all word lengths with their words
-[Q] - To quit the program
+Available commands: 
+	[A] - To add word(s)
+	[C] - To view count of a specific word
+	[V] - To view counts of all words
+	[L] - To view all words with the specified length
+	[W] - To view all word lengths with their words
+	[Q] - To quit the program
 Enter your command: q
+</code></pre>
 
 ---
 
